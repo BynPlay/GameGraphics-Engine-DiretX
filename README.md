@@ -158,7 +158,3 @@ DirectX11_Renderer/
 > DirectX 11 렌더링 파이프라인의 전체 흐름, HLSL 셰이더 프로그래밍, 실시간 그래픽스 최적화 기법 학습
 
 ---
-
-<p align="center">
-  <sub>Spring 2022 · Kyung Hee University, Dept. of Software Convergence</sub>
-</p>
